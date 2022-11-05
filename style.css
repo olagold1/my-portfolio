@@ -12,7 +12,7 @@
   position: absolute;
   width: 800px;
   height: 1000px;
-  left: 0px;
+  left: 0vh;
   top: 0vh;
 }
 
@@ -21,7 +21,6 @@
   padding-top: 25px;
   max-width: 1440px;
   margin: 0 auto;
-  font-family: 'poppins';
   display: flex;
 }
 
@@ -81,7 +80,6 @@
 }
 
 .links {
-  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
