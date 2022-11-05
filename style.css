@@ -13,8 +13,7 @@
   width: 800px;
   height: 1000px;
   left: 0px;
-  top: 0px;
-  align-items: center;
+  top: 0vh;
 }
 
 .header {
@@ -94,7 +93,5 @@
   position: absolute;
   width: 375px;
   height: 718px;
-  left: 0px;
-  top: 0px;
   background: #fff;
 }
