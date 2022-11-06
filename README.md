@@ -18,4 +18,4 @@ Figma
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/olagold1)
+- GitHub: [@olagold1](https://github.com/olagold1)
