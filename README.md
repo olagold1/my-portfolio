@@ -2,7 +2,7 @@
 
 # My personal portfolio.
 
-> This is my personal portfolio project contains my portfolio, coded according to requirements provided by Microverse Inc.
+> This is my personal portfolio project, coded according to requirements provided by Microverse Inc.
 
 
 ## Built With
@@ -11,6 +11,8 @@
 - Figma
 - Vs Code
 
+## Template used
+Figma
 
 ## Authors
 
